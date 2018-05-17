@@ -1,7 +1,7 @@
 {
-	"name": "summerblue/administrator",
+	"name": "zhangtaohua/lara_administrator",
 	"description": "A database interface package for Laravel, modified!",
-	"homepage": "https://github.com/summerblue/administrator",
+	"homepage": "git@github.com:zhangtaohua/lara_administrator.git",
 	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms"],
 	"license": "MIT",
 	"authors": [
@@ -11,11 +11,11 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/summerblue/administrator/issues"
+		"issues": "https://github.com/zhangtaohua/lara_administrator/issues"
 	},
 	"require": {
 		"php": ">=7.0.0",
-		"laravel/framework": "5.5.*",
+		"laravel/framework": "5.*.*",
 		"ckeditor/ckeditor": "4.*"
 	},
 	"require-dev": {
