@@ -1,7 +1,7 @@
 {
 	"name": "zhangtaohua/lara_administrator",
 	"description": "A database interface package for Laravel, modified!",
-	"homepage": "git@github.com:zhangtaohua/lara_administrator.git",
+	"homepage": "https://github.com/zhangtaohua/lara_administrator.git",
 	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms"],
 	"license": "MIT",
 	"authors": [
